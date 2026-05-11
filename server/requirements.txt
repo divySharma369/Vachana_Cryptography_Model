@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+cryptography
+requests
+python-dotenv
+# Note: sarvamai SDK is expected to be installed by the user if it's a private/custom package
+# For now, we will use a robust requests-based wrapper that matches the SDK format provided
