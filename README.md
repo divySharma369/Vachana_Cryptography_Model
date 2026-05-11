@@ -2,19 +2,20 @@
 
 **Vachana-Crypt** is a high-end, sovereign cybersecurity tool that pioneered the concept of "Semantic Camouflage." By combining the mathematical robustness of **AES-256-GCM** with the linguistic intelligence of the **Sarvam-30B** model, it hides sensitive data within naturally flowing Hinglish (Hindi + English) literature.
 
-![Project Preview](https://via.placeholder.com/1200x600.png?text=Vachana-Crypt+Premium+Dashboard) <!-- Replace with your actual screenshot -->
+<img width="1890" height="867" alt="image" src="https://github.com/user-attachments/assets/b7ed8c8d-824e-470f-8efd-4bbb63f7e4f2" />
 
-## 🌟 Key Features
+
+##  Key Features
 - **Neural Camouflage:** Encrypted payloads are transformed into sophisticated, human-readable Hinglish poems or technical manifestos.
 - **Local-First Security:** All encryption and decryption happen locally using your Master Password. Only non-reversible encrypted hashes are processed by the AI.
 - **Sarvam-30B Integration:** Utilizes the state-of-the-art Sarvam AI "Brain" for high-fidelity linguistic generation optimized for the Indian context.
 - **Glassmorphic UI:** A premium, dark-mode dashboard with real-time "Neural Pulse" animations.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Backend:** FastAPI (Python), Uvicorn, Cryptography.py, SarvamAI SDK.
 - **Frontend:** React, Vite, Axios, Lucide Icons, Vanilla CSS (Glassmorphism).
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Python 3.10+
@@ -47,10 +48,10 @@
    npm run dev
    ```
 
-## 📜 Usage
+##  Usage
 1. Open the dashboard at `http://localhost:5173`.
 2. **Encrypt:** Enter your secret, set a password, and watch the AI generate a "Camouflage" poem.
 3. **Decrypt:** Paste the poem and the password to extract the hidden truth.
 
-## 🛡️ License
+##  License
 MIT License. Created for educational and professional showcasing purposes.
